@@ -1,0 +1,34 @@
+Pais,Alfa2,Alfa3,Numerico,Continente
+Belice,BZ,BLZ,084,America del Norte y Central
+Canada,CA,CAN,124,America del Norte y Central
+Costa Rica,CR,CRI,188,America del Norte y Central
+El Salvador,SV,SLV,222,America del Norte y Central
+Estados Unidos,US,USA,840,America del Norte y Central
+Guatemala,GT,GTM,320,America del Norte y Central
+Honduras,HN,HND,340,America del Norte y Central
+Mexico,MX,MEX,484,America del Norte y Central
+Nicaragua,NI,NIC,558,America del Norte y Central
+Panama,PA,PAN,591,America del Norte y Central
+Argentina,AR,ARG,032,America del Sur
+Bolivia,BO,BOL,068,America del Sur
+Brasil,BR,BRA,076,America del Sur
+Chile,CL,CHL,152,America del Sur
+Colombia,CO,COL,170,America del Sur
+Ecuador,EC,ECU,218,America del Sur
+Paraguay,PY,PRY,600,America del Sur
+Peru,PE,PER,604,America del Sur
+Uruguay,UY,URY,858,America del Sur
+Venezuela,VE,VEN,862,America del Sur
+Alemania,DE,DEU,276,Europa
+Espana,ES,ESP,724,Europa
+Francia,FR,FRA,250,Europa
+Italia,IT,ITA,380,Europa
+Reino Unido,GB,GBR,826,Europa
+China,CN,CHN,156,Asia
+Japan,JP,JPN,392,Asia
+India,IN,IND,356,Asia
+Egipto,EG,EGY,818,Africa
+Nigeria,NG,NGA,566,Africa
+Sudafrica,ZA,ZAF,710,Africa
+Australia,AU,AUS,036,Oceania
+Nueva Zelanda,NZ,NZL,554,Oceania
